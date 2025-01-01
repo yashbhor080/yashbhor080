@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/yashbhor080/profilecard/?igsh=MWdxYTdlYW84ZWViNg==" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://https://www.hackerrank.com/profile/yashbhor080" target="_blank">
+  <a href="https://www.hackerrank.com/profile/yashbhor080" target="_blank">
     <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" height="40" width="40" />
   </a>
 </p>
